@@ -18,14 +18,14 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Muhammad Saad | 3D Portfolio",
+  title: "Soroban | Portfolio",
   description:
     "Explore my work in an immersive 3D house experience - Software Engineer specializing in ERPNext, Flutter, React Native, and Backend Integrations",
-  generator: "v0.app",
-  keywords: ["Muhammad Saad", "Portfolio", "3D Portfolio", "Software Engineer", "ERPNext", "Flutter", "React Native"],
-  authors: [{ name: "Muhammad Saad" }],
+  generator: "MY BRAIN",
+  keywords: ["Soroban", "Portfolio", "3D Portfolio", "Developer Portfolio", "Developer", "Java", "HTML"],
+  authors: [{ name: "Soroban" }],
   openGraph: {
-    title: "Muhammad Saad | 3D Portfolio",
+    title: "Soroban | Portfolio",
     description: "Explore my work in an immersive 3D house experience",
     type: "website",
   },
