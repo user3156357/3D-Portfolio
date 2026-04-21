@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Soroban | Portfolio",
   description:
-    "Explore my work in an immersive 3D house experience - Software Engineer specializing in ERPNext, Flutter, React Native, and Backend Integrations",
+    "Explore my work in an immersive 3D experience - Developer specializing in Java, JavaScript, HTML, and CSS",
   generator: "MY BRAIN",
   keywords: ["Soroban", "Portfolio", "3D Portfolio", "Developer Portfolio", "Developer", "Java", "HTML"],
   authors: [{ name: "Soroban" }],
